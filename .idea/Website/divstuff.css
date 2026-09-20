@@ -1,0 +1,22 @@
+div{
+    background-color: rgb(200,200,200);
+    height: 100px;
+    width: 100px;
+}
+
+.panel{
+    background-color: rgb(176, 176, 176);
+    height: 100px;
+    width: 100px;
+}
+
+.panel:hover{
+    background-color: rgb(97, 97, 97);
+}
+
+#btext{
+    color: rgb(26, 26, 26);
+    font-size: 20px;
+    text-align: center;
+    line-height: 100px;
+}
